@@ -1,9 +1,6 @@
 # Purwadhika Cohort Analysis Project
 
 ## Pengertian Bisnis
-
-![image.png](attachment:34fa78dc-b7da-4972-969b-cc601fb0892f.png)
-
 **Pengenalan**
 
 *The Look* adalah platform *e-commerce* yang menawarkan produk *fashion* terlengkap dan harga yang kompetitif. Dengan klien berbasis internasional, *The Look* menyediakan fitur *international shipping* & *delivery* beserta *order cancellation*

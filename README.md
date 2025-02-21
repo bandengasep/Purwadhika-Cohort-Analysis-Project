@@ -19,4 +19,4 @@ Untuk menjawab rumusan masalah tersebut, maka akan dilakukan analisa data mengun
 - Periode *retention*
 
 ## Looker Dashboard
-Visualisasi *cohort analysis* menggunakan Google Looker Studio dapat dilihat di [sini](https://lookerstudio.google.com/reporting/029201dc-b5ea-4525-8a6c-e6eb0939abfe).
+Visualisasi *cohort analysis* menggunakan Google Looker Studio dapat dilihat di [sini](https://lookerstudio.google.com/reporting/b66ed408-1cf6-4b81-a336-7ff624e2b91c).
